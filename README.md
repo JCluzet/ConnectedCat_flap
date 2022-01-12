@@ -9,4 +9,4 @@ This project is used to tweet a gif of a cat leaving or returning home through t
 
 ## This project use GPIO led to switch to green or red depending on whether the cat is inside or not 🐈
 
-👋🏼 If you encounter any problems when launching this program or if you have any questions, don't hesitate to ask me anything 👋
+👋🏼 If you encounter any problems when launching this program or if you have any questions, don't hesitate to ask me anything
